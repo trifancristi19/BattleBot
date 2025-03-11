@@ -4,9 +4,9 @@ Welcome to BattleBot Purpie - BB027! This project was developed as part of a Bat
 
 👨‍💻 Coded by:
 
-Cristian Trifan
+- Cristian Trifan
 
-Jia Men Lam
+- Jia Men Lam
 
 🚀 Project Overview
 
@@ -14,25 +14,25 @@ Purpie is responsible for the first part of the maze, called Line Race. It start
 
 🏁 How Purpie Works
 
-Start Detection – Purpie waits for an flag to be raised from its start position (detected using an ultrasonic sensor).
+- Start Detection – Purpie waits for an flag to be raised from its start position (detected using an ultrasonic sensor).
 
-Line Following – Once started, Purpie follows the black line on the race track using line sensors.
+- Line Following – Once started, Purpie follows the black line on the race track using line sensors.
 
-Obstacle Avoidance – Purpie avoids objects while staying on course.
+- Obstacle Avoidance – Purpie avoids objects while staying on course.
 
-Drop Zone Detection – Purpie identifies a square zone where it should drop its carried object.
+- Drop Zone Detection – Purpie identifies a square zone where it should drop its carried object.
 
-Race Completion – After dropping the object, Purpie stops, allowing the next BattleBot to begin its journey.
+- Race Completion – After dropping the object, Purpie stops, allowing the next BattleBot to begin its journey.
 
 🔧 Technologies Used
 
-Arduino – Core programming platform
+- Arduino – Core programming platform
 
-Ultrasonic Distance Sensor – For start detection
+- Ultrasonic Distance Sensor – For start detection
 
-Line Following Sensors – To navigate the maze
+- Line Following Sensors – To navigate the maze
 
-Motors & Controllers – For movement and control
+- Motors & Controllers – For movement and control
 
 📩 Contact
 
